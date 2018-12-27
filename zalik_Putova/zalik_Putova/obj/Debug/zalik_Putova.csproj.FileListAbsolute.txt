@@ -1,0 +1,6 @@
+D:\KPI\ол\zalik_Putova\zalik_Putova\bin\Debug\zalik_Putova.exe.config
+D:\KPI\ол\zalik_Putova\zalik_Putova\bin\Debug\zalik_Putova.exe
+D:\KPI\ол\zalik_Putova\zalik_Putova\bin\Debug\zalik_Putova.pdb
+D:\KPI\ол\zalik_Putova\zalik_Putova\obj\Debug\zalik_Putova.csprojResolveAssemblyReference.cache
+D:\KPI\ол\zalik_Putova\zalik_Putova\obj\Debug\zalik_Putova.exe
+D:\KPI\ол\zalik_Putova\zalik_Putova\obj\Debug\zalik_Putova.pdb
